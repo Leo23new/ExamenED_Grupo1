@@ -16,4 +16,10 @@ public class Pila {
         tope = tope.siguiente;
         return dato;
     }
+
+    public Object verTope() {
+        if (tope == null) return null;
+        return tope.dato;
+    }
+
 }
