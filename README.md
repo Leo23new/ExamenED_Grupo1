@@ -4,8 +4,10 @@ A continuación se detalla la responsabilidad asignada a cada integrante del equ
 
 | Nombre del Integrante | Usuario GitHub | Responsabilidad Asignada | Estructura / Módulo a Desarrollar | Estado de Avance |
 | :--- | :--- | :--- | :--- | :--- |
-| Persona 1 | `@Leo23new` | Integrador y Menú Principal | `Main.java` (Menú, casos de prueba y conexión de clases). | Pendiente |
-| Persona 2 | `@fercho123909` | Gestor de Nodos, Préstamos y Pila | `NodoSimple.java`, `ListaSimple.java` (Préstamos) y `Pila.java` (Deshacer). | Pendiente |
-| Persona 3 | `@EDGG123` | Gestor de Espera y Turnos | `Cola.java` (Espera) y `ListaCircular.java` (Turnos rotativos). | Pendiente |
-| Persona 4 | `@mxrajxse38` | Gestor de Historial y Regla de Negocio | `NodoDoble.java`, `ListaDoble.java` (Historial) y validación de batería. | Pendiente |
-| Persona 5 | `@ElJoss09` | Gestor de Inventario y Modelos | `Laptop.java`, `Prestamo.java` y `ListaSecuencial.java` (Inventario). | Pendiente |
+| Integrante | Usuario GitHub | Responsabilidad Asignada | Estructura / Módulo Desarrollado | Estado de Avance |
+| :--- | :--- | :--- | :--- | :--- |
+| Oseas Ortiz | `@Leo23new` | Integrador y Menú | `Main.java` (Menú, pruebas y orquestación) | Completado |
+| Fernando Villacres | `@fercho123909` | Inventario y Modelos | `Laptop.java`, `Prestamo.java`, `ListaSecuencial.java` | Completado |
+| Edwin Guamanquispe | `@EDGG123` | Préstamos y Pila | `NodoSimple.java`, `ListaSimple.java`, `Pila.java` | Completado |
+| Jose Mera | `@mxrajxse38` | Espera y Turnos | `Cola.java`, `ListaCircular.java` | Completado |
+| Justin Guanoquiza | `@ElJoss09` | Historial y Regla | `NodoDoble.java`, `ListaDoble.java`, Validación 25% | Completado |
